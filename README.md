@@ -145,7 +145,7 @@
 	
 	- **데이터 전처리 모듈**: Python + Pandas/NumPy
 	
-	- **데이터 분석 및 시각화 모듈**: Python (Pandas, Matplotlib) & Chart.js + D3.js
+	- **데이터 분석 및 시각화 모듈**: Python (Pandas, Matplotlib) & Tableau
 
 ## 2. 데이터 설계
 - [ ] **데이터 흐름**:
@@ -156,10 +156,10 @@
 	- **AI Agent:** Data Collector / Data Analyst / Content Generator / Notifier
 
 ## 3. 기술 스택
-- **AI 추천 엔진:** Python + Scikit-learn/TensorFlow
+- **AI 추천 엔진:** Python + Scikit-learn/Pytorch
 - **프론트엔드:** Streamlit (MVP) → Flutter(확장 시 크로스 플랫폼)
 - **백엔드**: FastAPI + PostgreSQL
-- **시각화**: Chart.js + D3.js
+- **시각화**: Tableau
 - **알림**: Firebase Cloud Messaging / SendGrid
   
 ## 4. 예상 문제 및 해결 방안

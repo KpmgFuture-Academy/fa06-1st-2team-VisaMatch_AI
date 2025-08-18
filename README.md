@@ -19,7 +19,7 @@
 
 - **TAM**: 약 1억 명 전세계 디지털 노마드 + 원격 근무자 → 연간 100억 달러 규모
 - **SAM**: 초기 주요 20개 국가 중심 → 연간 약 20억 달러 규모
-- **SOM**:  1~2% 점유 목표 → 연간 약 2,000만~4,000만 달러의 매출 예상
+- **SOM**: 1~2% 점유 목표 → 연간 약 2,000만~4,000만 달러의 매출 예상
 
 ### 3. 목표 및 성공 기준
 
@@ -140,11 +140,11 @@
 
 ## 1. 시스템 아키텍처
 - **구성 요소**:
--**데이터 수집 모듈**: Python + BeautifulSoup/Scrapy
+- **데이터 수집 모듈**: Python + BeautifulSoup/Scrapy
 
--**데이터 전처리 모듈**: Python + Pandas/NumPy
+- **데이터 전처리 모듈**: Python + Pandas/NumPy
 
--**데이터 분석 및 시각화 모듈**: Python (Pandas, Matplotlib) & Chart.js + D3.js
+- **데이터 분석 및 시각화 모듈**: Python (Pandas, Matplotlib) & Chart.js + D3.js
 
 ## 2. 데이터 설계
 - **데이터 흐름**:- **수집:** 사용자 입력(웹폼), 크롤링(RSS+NLP)

@@ -1,4 +1,4 @@
-# Tem_fa06-1st-LifeAtlas AI 
+# Tem_fa06-1st-LifeAtlas-AI(nomad edition)
 - KPMG Future Academy 6기- 2조 첫 번째 프로젝트 템플릿 레포지토리입니다.
 
 -------------------
